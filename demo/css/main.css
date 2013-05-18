@@ -1,0 +1,26 @@
+.btn {
+	font-size: 20px;
+	height: 40px;
+}
+.hero-unit {
+	font-size: 36px;
+}
+input[type="text"] {
+	font-size: 32px;
+	height: 36px;
+	margin-top: 0px;
+}
+.master-name {
+	font-style: italic;
+}
+.typeahead {
+	margin-top: 0px;
+}
+.tt-dropdown-menu {
+	margin-top: 0px;
+	padding-top: 2px;
+	display: block;
+}
+.twitter-typeahead .tt-hint {
+	color: #909090;
+}
